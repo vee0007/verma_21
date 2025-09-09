@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hi, I'm Rohit Kumar Verma!  <br>🎓 B.Tech Student in Computer Science & Engineering (2nd Year) at **JISCE**  <br>💻 Passionate about **Machine Learning | Python | Android Development**  <br>📚 Currently learning **ML models with Scikit-learn, Pandas, Numpy**  <br>🚀 Exploring projects in **Data Science & AI**  <br> 🌱 What I’m Learning<br>- Machine Learning basics (Linear/Logistic Regression, Decision Trees, Clustering)  <br>- Data analysis with Pandas & visualization with Matplotlib/Seaborn  <br>- Android development with Kotlin/Java  <br>## 🛠️ Tech Stack<br>- **Languages:** Python, C++, Java  <br>- **Libraries & Tools:** Scikit-learn, Pandas, NumPy, Matplotlib  <br>- **Other Interests:** Android Development, Git & GitHub  <br>
+👋 Hi, I'm Rohit Kumar Verma!  <br><br>🎓 B.Tech Student in Computer Science & Engineering (2nd Year) at **JISCE**  <br>💻 Passionate about **Machine Learning | Python | Android Development**  <br>📚 Currently learning **ML models with Scikit-learn, Pandas, Numpy**  <br>🚀 Exploring projects in **Data Science & AI**  
 
 
 ## 🌐 Socials:
