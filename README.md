@@ -1,7 +1,13 @@
-# 💫 About Me:
-👋 Hi, I'm Rohit Kumar Verma!  <br><br>🎓 B.Tech Student in Computer Science & Engineering (2nd Year) at **JISCE**  <br>💻 Passionate about **Machine Learning | Python | Android Development**  <br>📚 Currently learning **ML models with Scikit-learn, Pandas, Numpy**  <br>🚀 Exploring projects in **Data Science & AI**  
+💫 About Me:
 
+👋 Hi, I'm Rohit Kumar Verma!
 
+🎓 B.Tech Computer Science & Engineering (4th Year) at JIS College of Engineering (JISCE)
+💻 Passionate about Software Development | AI/ML | Backend Development
+🚀 Preparing for Software Engineering & AI/ML roles
+🧠 Strengthening C++ & Data Structures and Algorithms (DSA) for placements
+🤖 Building projects using Python, Scikit-learn, Pandas, NumPy & Streamlit
+🌱 Currently exploring Machine Learning, Backend Development & AI-powered applications
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohitverma0199505@gmail.com) 
 
