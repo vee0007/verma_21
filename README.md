@@ -8,7 +8,73 @@
 🧠 Strengthening C++ & Data Structures and Algorithms (DSA) for placements
 🤖 Building projects using Python, Scikit-learn, Pandas, NumPy & Streamlit
 🌱 Currently exploring Machine Learning, Backend Development & AI-powered applications
+
+
+🚀 Featured Projects:
+
+🏥 MediConnect-AI
+
+AI-powered emergency healthcare platform built with Python, FastAPI, SQLite and Groq API.
+
+Features:
+
+Symptom analysis
+
+Emergency severity detection
+
+Doctor recommendations
+
+Fake review detection
+
+Doctor trust-score ranking
+
+🚗 Car Price Prediction
+
+Machine Learning application for predicting used-car resale prices.
+
+Tech: Python, Pandas, Scikit-learn, Streamlit
+
+🚢 Titanic Survival Prediction
+
+Machine Learning project predicting passenger survival using demographic and travel-related features.
+
+Tech: Python, Pandas, Scikit-learn, Matplotlib
+
+📊 GitHub Stats:
+
+
+
+
+
+
+
+🧠 Currently Learning:
+
+Data Structures & Algorithms with C++
+
+Machine Learning
+
+Backend Development
+
+SQL & Databases
+
+AI-powered Applications
+
+Software Engineering Fundamentals
+
+🎯 2027 Goals:
+
+💼 Secure a Software Engineering / AI-ML role
+
+🧩 Strengthen DSA & Problem Solving
+
+🤖 Build impactful AI/ML projects
+
+🌐 Improve Backend Development skills
+
 ## 🌐 Socials:
+
+🚀 Contribute to Open Source
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohitverma0199505@gmail.com) 
 
 # 💻 Tech Stack:
